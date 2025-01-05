@@ -1,6 +1,6 @@
 import React from 'react';
 import NavBar from '../Components/NavBar'; // Assuming you have a Navbar component
-import { Link } from 'react-router-dom'; // For navigation to the AddProduct page
+
 
 function Home({ products }) {
   return (
